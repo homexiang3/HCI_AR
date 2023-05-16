@@ -1,25 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\home_\\HCI_AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\home_\\OneDrive\\Documentos\\GitHub\\HCI_AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\home_\\HCI_AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\home_\\OneDrive\\Documentos\\GitHub\\HCI_AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,98",
+                        "endColumns": "41,65",
+                        "endOffsets": "94,161"
                     },
                     "to": {
-                        "startLines": "11,13,16",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "548,648,786",
-                        "endLines": "12,15,19",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "643,781,1008"
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,400",
+                        "endColumns": "43,67",
+                        "endOffsets": "395,463"
                     }
                 },
                 {
@@ -40,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\home_\\HCI_AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "source": "C:\\Users\\home_\\OneDrive\\Documentos\\GitHub\\HCI_AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -50,20 +48,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\home_\\HCI_AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\home_\\OneDrive\\Documentos\\GitHub\\HCI_AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,98",
-                        "endColumns": "41,65",
-                        "endOffsets": "94,161"
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
                     },
                     "to": {
-                        "startLines": "8,9",
-                        "startColumns": "4,4",
-                        "startOffsets": "356,400",
-                        "endColumns": "43,67",
-                        "endOffsets": "395,463"
+                        "startLines": "11,13,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "548,648,786",
+                        "endLines": "12,15,19",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "643,781,1008"
                     }
                 }
             ]
