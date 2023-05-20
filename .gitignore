@@ -1,4 +1,35 @@
 
-Temp/UnityLockfile
-Temp/workerlic
-Temp/FSTimeGet-53875b6c0851d934587f05033fc28a61
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
+*.pidb.meta
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+
+###
+# OS generated
+###
+.DS_Store
